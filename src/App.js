@@ -38,6 +38,8 @@ function App() {
       category={dados.categorias[5]}
     />
 
+    <Footer/>
+
     </div>
   );
 }
